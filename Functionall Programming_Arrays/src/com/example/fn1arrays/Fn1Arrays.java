@@ -3,6 +3,11 @@ package com.example.fn1arrays;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/*Authors: Lucie Saad, Anna Amberntsson 
+ *Project: A school assignment to exercise functional programming, namely recursive methods. The objective is to use arrays and 
+ try to update them (add, update, or remove data), compare them to other arrays etc while avoiding using array-lists or other 
+ data structures. Learning and writing a code in pairs. */
+
 public class Fn1Arrays {
         public static void main(String[] args) {
 
